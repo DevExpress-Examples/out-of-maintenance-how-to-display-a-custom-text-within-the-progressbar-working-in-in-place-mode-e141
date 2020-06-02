@@ -7,7 +7,7 @@
 # How to display a custom text within the ProgressBar, working in in-place mode 
 
 
-<p>This sample shows how to force the progress bar to show both the progress and custom text within a ProgressBar cell</p>
+<p>This sample shows how to force the <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.ProgressBarControl">progress bar</a> to show both the progress and custom text within a ProgressBar cell</p>
 
 <br/>
 
