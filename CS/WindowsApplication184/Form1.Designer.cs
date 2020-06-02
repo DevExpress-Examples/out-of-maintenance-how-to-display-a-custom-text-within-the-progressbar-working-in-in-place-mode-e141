@@ -48,7 +48,6 @@ namespace FormatProgressBarText
             this.repositoryItemProgressBar1});
             this.treeList1.Size = new System.Drawing.Size(553, 346);
             this.treeList1.TabIndex = 1;
-            this.treeList1.CustomDrawNodeCell += new DevExpress.XtraTreeList.CustomDrawNodeCellEventHandler(this.treeList1_CustomDrawNodeCell);
             // 
             // columnName
             // 
